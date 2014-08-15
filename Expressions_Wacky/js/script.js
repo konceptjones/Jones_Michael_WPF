@@ -2,6 +2,7 @@
 //August 14, 2014
 //Assignment: Expressions
 
+
 //The Sqaure ft. of a house
 var length = 20;
 var width = 16;

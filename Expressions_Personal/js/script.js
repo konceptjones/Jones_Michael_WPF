@@ -2,6 +2,7 @@
 //August 14, 2014
 //Assignment: Expressions
 
+
 //Health scope-JUST FOR TESTING
 var weight = prompt("Please enter your weight in lbs:");
 var height = prompt("Please enter your height in inches:");
