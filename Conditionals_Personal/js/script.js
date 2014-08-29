@@ -2,6 +2,7 @@
 //August 21, 2014
 //Assignment: Conditionals - Personal
 
+
 //If you purchase iPhone at store cost $199.99, otherwise if purchase online 199.99 plus $10 shipping.
 var iphone;
 iPhone = 199.99; //cost of iPhone

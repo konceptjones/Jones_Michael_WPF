@@ -31,7 +31,6 @@ if (quarterA < quarterB){
      var sales = quarterA + quarterB + quarterC;
      return sales;
 }
- 
  //Car annual Sales
  var annualSales = YearSales(8,20,12);
 console.log(annualSales);
